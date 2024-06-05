@@ -1,1 +1,1 @@
-Refactor edit profile function
+Move token login to function that calls API
