@@ -1,1 +1,1 @@
-Remove unused api methods
+Move token login to function that calls API
